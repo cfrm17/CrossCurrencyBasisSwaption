@@ -23,11 +23,8 @@ deterministic and the adjusted zero curve can also be obtained from the market a
 
 References:
 
-https://finpricing.com/lib/EqBarrier.html
+https://finpricing.com/lib/FxAccumulator.html
 
-https://zenodo.org/record/6588375/files/crossCurrencyBasisSwaption.pdf
-
-https://zenodo.org/record/6588375#.YpEh86gpDq4
 
 
 
