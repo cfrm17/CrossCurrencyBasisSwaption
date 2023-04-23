@@ -23,8 +23,4 @@ deterministic and the adjusted zero curve can also be obtained from the market a
 
 References:
 
-https://finpricing.com/lib/FxAccumulator.html
-
-
-
-
+https://finpricing.com/knowledge.html
